@@ -1,6 +1,6 @@
 #include<iostream>
 int main(void)
 {
-	cout << "fsdfdfdfdfdf" << endl;
+	cout << "ULTIMATE POWERRRRRRRR" << endl;
 	return 0;
 }
